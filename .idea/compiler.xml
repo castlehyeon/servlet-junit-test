@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="douzone_JSTL" />
+        <module name="WebServlet_5_Memo_Mvc_dpcp" />
+        <module name="WebServlet_9_Memver_Service_Interface" />
+        <module name="WebServlet_Junit_Memo_Mvc" />
+        <module name="WebServlet_7_Memver_Command" />
+        <module name="WebServlet_8_Memver_Url" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
